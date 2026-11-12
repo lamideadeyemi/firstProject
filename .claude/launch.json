@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "landing-page",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "C:\\Users\\OLAMID~1\\AppData\\Local\\Temp\\claude\\8fe45dbcb32a549f\\5dc58a89-78aa-4cca-87dc-df278d688f6a\\scratchpad\\serve.js",
+        "C:\\Users\\Olamide Adeyemi\\OneDrive\\altschoolafrica\\firstProject"
+      ],
+      "port": 5500
+    }
+  ]
+}
